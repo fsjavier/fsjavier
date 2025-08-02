@@ -2,9 +2,10 @@
 
 ### Hi there 👋
 
-I'm a Frontend Developer specialised in React
+I'm a Junior Software Engineer  writing clean, maintainable code.
 
-- 🎖️ Holding a Diploma in Full Stack Software Development focused on Advanced Frontend
-- 📚 Proficient in React, JavaScript, Python, and Django
-- 🌱 Currently anhancing my skills in TypeScript and Next.js
-
+- 💻 Currently working in a backend/data engineering team, expanding my skills in **Go**, **AWS**, and **Kubernetes**
+- 🎓 Completed a Diploma in Full Stack Software Development with a focus on **Advanced Frontend**
+- ⚛️ Previous experience in building full-stack apps using **React**, **TypeScript**, **Node.js**, and **Express**
+- 🛠️ Strong believer in **Clean Code**, **TDD**, and **Agile** practices
+- 🌱 Always learning and open to collaboration
